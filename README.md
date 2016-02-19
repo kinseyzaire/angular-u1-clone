@@ -1,2 +1,2 @@
 # angular-u1-clone
-solution to https://github.com/gSchool/angular-curriculum
+solution to Unit 1 of https://github.com/gSchool/angular-curriculum
